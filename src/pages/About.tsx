@@ -14,7 +14,7 @@ export const About: React.FC = () => {
       image: 'https://github.com/MonishRaman/Stardust_innovations/blob/main/assets/images/Shaswat%20MISHA%20NASA.jpg?raw=true',
     },
     {
-      name: 'Junaid',
+      name: 'Md Junaid',
       role: 'BE in CSE-Artificial Intelligence',
       image: 'https://github.com/MonishRaman/Stardust_innovations/blob/main/assets/images/junaid.jpg?raw=true',
     },

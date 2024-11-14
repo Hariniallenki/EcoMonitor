@@ -12,7 +12,7 @@ export const Awareness = () => {
       {
         title: "Vehicle Emissions",
         image: "https://images.unsplash.com/photo-1575789473825-d2ec5e9b1b9b",
-        video: "https://www.youtube.com/embed/CrZYqJSfF_Y",
+        video: "https://youtu.be/3PxaPC2cOFE?si=jJwac2_CMBh3IASF",
         description: "Transportation is a major source of air pollution in cities worldwide."
       }
     ],
